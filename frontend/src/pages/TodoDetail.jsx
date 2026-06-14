@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useSearchParams, useNavigate } from "react-router-dom";
 import Navbar from "../components/Navbar";
 
-const API = "http://localhost:5000/api/todos";
+const API = "https://ziptrrip-todo-backend.onrender.com/api/todos";
 
 const PRIORITY_COLORS = {
     High: { bg: "#fff1f2", color: "#e11d48", border: "#fecdd3" },

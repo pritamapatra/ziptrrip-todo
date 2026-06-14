@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Navbar from "../components/Navbar";
 import TodoCard from "../components/TodoCard";
 
-const API = "http://localhost:5000/api/todos";
+const API = "https://ziptrrip-todo-backend.onrender.com/api/todos";
 const FILTERS = ["All", "Active", "Completed"];
 const PRIORITIES = ["All", "High", "Medium", "Low"];
 

@@ -9,5 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "Ziptrrip Todo App - Express Backend"
+  "description": "Ziptrrip Todo App - Express Backend",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "uuid": "^14.0.0"
+  }
 }

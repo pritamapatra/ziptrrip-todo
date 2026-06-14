@@ -2,6 +2,8 @@
 
 A full stack todo application built with React (Vite) for the frontend and Node.js/Express for the backend. Built as part of the Ziptrrip Developer Intern assignment.
 
+Live Demo Link:- https://ziptrrip-todo.vercel.app/
+
 ## Project Structure
 ziptrrip-todo/
 ├── backend/ # Node.js + Express REST API
